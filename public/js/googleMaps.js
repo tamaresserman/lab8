@@ -8,9 +8,9 @@ function initMap() {
     zoom: 15
   });
 
- /* var marker = new google.maps.Marker({
+  var marker = new google.maps.Marker({
       position: ucsd_ltlng,
       map: map,
       title: 'UCSD'
-  });*/
+  });
 }
